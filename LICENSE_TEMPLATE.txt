@@ -1,0 +1,8 @@
+LICENSE SELECTION REQUIRED BEFORE PUBLIC RELEASE
+
+Choose and add an appropriate open-source license before publishing this repository.
+A common option for a reusable Python toolbox is the MIT License:
+https://choosealicense.com/licenses/mit/
+
+Replace this file with the final LICENSE file containing the copyright year
+and owner name.

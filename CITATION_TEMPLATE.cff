@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "SCS Curve Number Reporting Toolbox for ArcGIS Pro"
+version: "0.1.0"
+date-released: "YYYY-MM-DD"
+authors:
+  - family-names: "REPLACE"
+    given-names: "REPLACE"
+repository-code: "https://github.com/REPLACE/REPLACE"
+license: "REPLACE"
